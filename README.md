@@ -6,7 +6,7 @@
 [![Dataset](https://img.shields.io/badge/Dataset-47K%20faces-blue)](https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset)
 [![Python](https://img.shields.io/badge/Python-3.13-orange)](https://www.python.org/)
 
-## Results
+## 📌 Results
 | Metric | Value |
 |--------|-------|
 | **Validation Accuracy** | **83.1%** |
